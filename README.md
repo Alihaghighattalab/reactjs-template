@@ -1,2 +1,2 @@
 # reactjs-template
-React.js , Redux.js , TS , Webpack
+this template build with react.js , redux.js , TS , React Router config and minify files with Webpack
